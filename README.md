@@ -15,6 +15,8 @@ Proyecto que dadas unas imágenes es capaz de ocultar mediante un algoritmo info
 
 Proyecto de operaciones lógicas sobre matrices.
 
+## Proyecto final
+
 [Conecta N](https://github.com/Carlosma7/Metodologia-de-Programacion/tree/master/ConectaN)
 
 Proyecto final consistente en la creación de un tablero del juego ***Conecta N***, con dos versiones distintas.
